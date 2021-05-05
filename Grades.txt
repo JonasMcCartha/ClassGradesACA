@@ -1,0 +1,42 @@
+Fernando Powell | 92
+William Norton | 70
+Dalton Boone | 88
+Edwardo French | 52
+Antoinette Santiago | 82
+Rena Hayden | 99
+Tyson Best | 75
+Eliza Tyler | 62
+Edith Adkins | 0
+Charlotte Villanueva | 95
+
+Number of Students = 10
+
+Average Grade = 71.5
+Tammy Cunningham | 99
+Marcia Dunlap | 43
+Emma Savage | 65
+Janna Fleming | 88
+Emilio Rangel | 92
+Martha Mcclure | 94
+Jason Vang | 75
+Rosa Chavez | 78
+Hayden Boyle | 89
+Margarita Marks | 79
+
+Number of Students = 10
+
+Average Grade = 151.7
+Aileen Yoder | 83
+Maryanne Anderson | 66
+Benton Donaldson | 52
+Myrtle Ingram | 98
+Lina Beck | 95
+Alisa Roy | 93
+Faye Cervantes | 84
+Brooks Villarreal | 82
+Jarrett Henderson | 75
+Darlene Mcconnell | 73
+
+Number of Students = 10
+
+Average Grade = 231.8
